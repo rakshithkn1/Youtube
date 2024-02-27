@@ -65,6 +65,7 @@ background-position: center;
     width: 110px;
     background-color: olive;
     position: absolute;
+    
 
 
 }
@@ -96,4 +97,5 @@ justify-content: space-between;
     width: 100px;
     background-color: yellow;
     margin: 10px;
+    background-image: url(./Screenshot\ \(414\).png);
 }
